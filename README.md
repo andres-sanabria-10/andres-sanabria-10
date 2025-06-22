@@ -14,16 +14,30 @@
 
 ---
 
+---
+
 🎓 **About Me**
 
-- 🧑‍🎓 I'm currently pursuing a degree in Systems and Computer Engineering at **Universidad Pedagógica y Tecnológica de Colombia**.
-- 💡 I'm passionate about solving real-world problems with technology.
-- 🌱 Currently learning more about:
-  - Microservices & API Design
-  - Web development with **React**, **Node.js**, and **Flask**
-  - Data transformation with **DBT**
-- 🤝 Looking for internship or project opportunities where I can grow as a developer.
-- ⚙️ I enjoy working on both frontend and backend challenges.
+- I’m a Systems and Computer Engineering student at **Universidad Pedagógica y Tecnológica de Colombia**.
+- I enjoy building backend systems, integrating AI into real-world applications, and creating useful developer tools.
+- I’ve worked on:
+  - 🤖 NLP pipelines using Hugging Face Transformers
+  - 💬 Chatbots connected to backend services
+  - ⚙️ Webhooks for event-driven architecture
+  - 🌐 Full-stack apps using Node.js, Flask, and React
+  - 🧠 Data pipelines with DBT and PostgreSQL
+- I’m also familiar with Git, Docker, and deployment platforms like Render.
+
+---
+
+🌱 **Currently reinforcing my knowledge in:**
+
+- Microservices and scalable API design
+- Deploying and maintaining AI-powered applications
+- Integrating webhooks with serverless and RESTful APIs
+- Improving frontend architecture with React + Vite
+- Testing and documentation for production-ready apps
+
 
 ---
 
