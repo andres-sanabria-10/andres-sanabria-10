@@ -1,94 +1,87 @@
-### andres
-<h1 align="center"><b>Hi, I'm Andrés Sanabria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
-<br>
-
-
-
-	
-<h2> 💻 &nbsp;About Me </h2>
-<picture> <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-</picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a "arreglar" new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<h3 align="center">
+  Hi there 👋, I'm Andrés Felipe Sanabria
+</h3>
 
 <p align="center">
-
-- **Languages**:
-    
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-[![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/andres-sanabria-10/extraccion-.git)
-
-<br>   
-    
-- **Front-End Development**:
-
-   [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/andres-sanabria-10/Parroquia-Santa-Mar-a-Boyac-/tree/ce869ab034db1d3fa0a0b61f11dbaf5f3a517702/views)
-   [![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/andres-sanabria-10/Parroquia-Santa-Mar-a-Boyac-/tree/ce869ab034db1d3fa0a0b61f11dbaf5f3a517702/public/css)
-   [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/andres-sanabria-10/Parroquia-Santa-Mar-a-Boyac-/tree/ce869ab034db1d3fa0a0b61f11dbaf5f3a517702/public)
-
-<br>
-
-- **Cloud Hosting**:
-
-   [![Render](https://img.shields.io/badge/Render-%2300BFFF.svg?style=for-the-badge&logo=render&logoColor=white)](https://parroquia-santa-mar-a-boyac.onrender.com)
-   [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/es/free/?gclid=EAIaIQobChMIsuyWuLPuhwMV-0r_AR3plwrsEAAYASAAEgKL7_D_BwE&trk=8fa18207-f2c2-4587-81a1-f2a3648571b3&sc_channel=ps&ef_id=EAIaIQobChMIsuyWuLPuhwMV-0r_AR3plwrsEAAYASAAEgKL7_D_BwE:G:s&s_kwcid=AL!4422!3!647999789205!e!!g!!aws!19685287144!146461596896&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
-
-    
-<br>
-
-- **Softwares and Tools**:
-
-    [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andres-sanabria-10?tab=repositories)
-    [![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
-    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-    [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-<br>
-
-- **Database**:
-
-   [![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-   [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-   
-<br>
-
-- **Extras**:
-
-  [![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-   
-
-
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Systems+and+Computer+Engineering+Student;Backend+%7C+Web+%7C+Microservices;Learning+Flask%2C+React%2C+Node.js+and+more;Open+to+internships+%26+new+opportunities" alt="Typing SVG" />
+  </a>
 </p>
 
-<br>
-<br>
+---
 
------
+🎓 **About Me**
 
-<br>
+- 🧑‍🎓 I'm currently pursuing a degree in Systems and Computer Engineering at **Universidad Pedagógica y Tecnológica de Colombia**.
+- 💡 I'm passionate about solving real-world problems with technology.
+- 🌱 Currently learning more about:
+  - Microservices & API Design
+  - Web development with **React**, **Node.js**, and **Flask**
+  - Data transformation with **DBT**
+- 🤝 Looking for internship or project opportunities where I can grow as a developer.
+- ⚙️ I enjoy working on both frontend and backend challenges.
 
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+
+### 🧩 Frameworks & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite)
+
+### 🗃️ Data & Backend
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![DBT](https://img.shields.io/badge/-DBT-%23f06529?style=for-the-badge&logo=dbt)
+
+### 💻 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
+![Render](https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render)
+
+---
+
+## 🔍 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=react&border_radius=15" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=react&border_radius=15" />
 </div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+  <a href="mailto:your_email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+---
+
+<!-- Optionally list featured projects -->
+### 🚀 Featured Projects
+
+- 🔗 [Flask + DBT + PostgreSQL API](https://github.com/TU_USUARIO/tu-proyecto-dbt)
+- 🔗 [React + Node.js microservices demo](https://github.com/TU_USUARIO/microservices-demo)
+- 🔗 [Data visualization app](https://github.com/TU_USUARIO/visualization-app)
+
+---
+
