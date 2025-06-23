@@ -109,27 +109,11 @@ I’ve worked on different projects involving backend, frontend, AI, and automat
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andres-sanabria-10&show_icons=true&theme=algolia&border_radius=15" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-sanabria-10&layout=compact&theme=algolia&border_radius=15" />
-</div>
+
 
 ---
 
-### ⏱️ GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=andres-sanabria-10&theme=algolia&border_radius=15" />
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres-sanabria-10&theme=react-dark" />
-</div>
 
 
 
