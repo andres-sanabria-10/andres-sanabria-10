@@ -1,10 +1,13 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-<h3 align="center">
 
-## 👋 Hey, I'm Andrés Felipe Sanabria
-</h3>
+<div align="center">
+
+<h3>👋 Hey, I'm Andrés Felipe Sanabria</h3>
+
+</div>
+
 I'm a Systems and Computer Engineering student at **UPTC (Universidad Pedagógica y Tecnológica de Colombia)**.
 
 I’ve worked on different projects involving backend, frontend, AI, and automation. Here's what I focus on:
