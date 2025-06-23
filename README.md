@@ -1,11 +1,6 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+---
 
-<h3 align="center">
-  Hi, I'm Andres Felipe Sanabria 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+## 👋 Hey, I'm Andrés Felipe Sanabria
 
 I'm a Systems and Computer Engineering student at **UPTC (Universidad Pedagógica y Tecnológica de Colombia)**.
 
@@ -15,45 +10,73 @@ I’ve worked on different projects involving backend, frontend, AI, and automat
 
 ### 🧠 AI / NLP
 
-- Implementation of **Hugging Face models** (sentiment, emotion, irony, toxicity)
-- Used **Gemini API (Google AI)** to generate texts based on database context
-- Built text analysis APIs with `transformers` and Flask
+* Implementation of **Hugging Face models** (sentiment, emotion, irony, toxicity)
+* Used **Gemini API (Google AI)** to generate texts based on database context
+* Built text analysis APIs with `transformers` and Flask
 
 ---
 
 ### 🖥️ Backend
 
-- Python APIs using **Flask** and **FastAPI**
-- JavaScript APIs using **Node.js + Express**
-- Connected webhooks to services like WhatsApp for real-time automation
+* Python APIs using **Flask** and **FastAPI**
+* JavaScript APIs using **Node.js + Express**
+* Connected webhooks to services like WhatsApp for real-time automation
 
 ---
 
 ### 💬 Chatbots & Automation
 
-- Built a chatbot with **wa-automate-nodejs** using webhook events
-- Automated responses and bot logic integrated with backend services
+* Built a chatbot with **wa-automate-nodejs** using webhook events
+* Automated responses and bot logic integrated with backend services
 
 ---
 
 ### 🌐 Frontend
 
-- UI development with **React** and **Vite**
-- Consuming APIs and handling state with React hooks
+* UI development with **React** and **Vite**
+* Consuming APIs and handling state with React hooks
 
 ---
 
 ### 📊 Data & Tools
 
-- SQL data handling with **PostgreSQL**
-- Data pipelines using **DBT**
-- Version control with Git, GitHub
-- Deployed with **Render** and **Docker** (basic)
+* SQL data handling with **PostgreSQL**
+* Data pipelines using **DBT**
+* Version control with Git, GitHub
+* Deployed with **Render** and **Docker** (basic)
 
 ---
 
-## 🧩 Currently working on:
+## 🧹 Currently working on:
 
-- Structuring microservices and deploying them
-- Improving frontend architecture
-- Building cleaner API docs and automated tests
+* Structuring microservices and deploying them
+* Improving frontend architecture
+* Building cleaner API docs and automated tests
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+### 🧩 Frameworks & Tools
+
+### 🗃️ Data & Backend
+
+### 💻 Tools & Platforms
+
+---
+
+## 🔍 GitHub Stats
+
+---
+
+## 📢 Contact Me
+
+---
+
+### 🚀 Featured Projects
+
+* 🔗 [Flask + DBT + PostgreSQL API](https://github.com/TU_USUARIO/tu-proyecto-dbt)
+* 🔗 [React + Node.js microservices demo](https://github.com/TU_USUARIO/microservices-demo)
+* 🔗 [Data visualization app](https://github.com/TU_USUARIO/visualization-app)
