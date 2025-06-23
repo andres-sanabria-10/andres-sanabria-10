@@ -16,7 +16,7 @@ I’ve worked on different projects involving backend, frontend, AI, and automat
 
 ### 🧠 AI / NLP
 
-* Implementation of **Hugging Face models** (sentiment, emotion, irony, toxicity)
+* Implementation of **Hugging Face models** 
 * Used **Gemini API (Google AI)** to generate texts based on database context
 * Built text analysis APIs with `transformers` and Flask
 
@@ -53,17 +53,22 @@ I’ve worked on different projects involving backend, frontend, AI, and automat
 
 ---
 
-## 🧹 Currently working on:
+## 🧹 Actively deepening my knowledge in:
 
-* Structuring microservices and deploying them
-* Improving frontend architecture
-* Building cleaner API docs and automated tests
+* Microservice architecture and deployment
+* Frontend structural improvements
+* Creating robust API documentation and automated testing frameworks
+* Advanced data transformations using SQL and dbt
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### 🧩 Frameworks & Tools
 
