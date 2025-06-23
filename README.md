@@ -1,5 +1,3 @@
----
-
 ## 👋 Hey, I'm Andrés Felipe Sanabria
 
 I'm a Systems and Computer Engineering student at **UPTC (Universidad Pedagógica y Tecnológica de Colombia)**.
