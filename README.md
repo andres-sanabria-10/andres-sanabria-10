@@ -56,6 +56,13 @@ andres:
 | [**Portafolio**](https://github.com/andres-sanabria-10/Portafolio) | Astro + Vue + DuckDB-WASM (SQL en el navegador), datos sintéticos generados con Python y CI/CD con GitHub Actions |
 | *Pipeline con datos abiertos de Colombia* | 🔜 Ingesta programada, transformación con DuckDB/dbt y pruebas de calidad |
 
+**Aplicaciones completas** · *código privado*
+
+| Aplicación | Qué demuestra |
+|---|---|
+| 🔒 **Plataforma web para una parroquia** | Full stack: frontend en Next.js + TypeScript y API en Node.js con gestión de usuarios (registro con código de confirmación), misas, partidas con envío por correo y donaciones con pasarela de pagos (migración de ePayco a Mercado Pago). Pruebas con Jest, más de 230 commits |
+| 🔒 **Evaluador de *speaking* en inglés con IA** | Aplicación web que evalúa la expresión oral en inglés (niveles A1–B1) con IA generativa, como parte de una investigación en la UPTC |
+
 **Desarrollo de software e IA** · *proyectos académicos*
 
 | Proyecto | Qué demuestra |
