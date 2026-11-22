@@ -1,131 +1,74 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1117,100:0e7490&text=Andr%C3%A9s%20Felipe%20Sanabria&fontColor=e6edf3&fontSize=40&fontAlignY=35&desc=Analista%20BI%20%E2%86%92%20Data%20Engineer%20Jr&descAlignY=58&descSize=18" alt="Andrés Felipe Sanabria — Analista BI → Data Engineer Jr" />
+
+<a href="https://andres-felipe-sanabria.uk"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=extract+%E2%86%92+transform+%E2%86%92+load;Pipelines+ETL+con+Python+y+SQL+Server;APIs+REST+y+SOAP+%E2%86%92+datos+confiables;Aprendiendo+AWS+Data+Engineering" alt="extract → transform → load" /></a>
+
+<a href="https://andres-felipe-sanabria.uk"><img src="https://img.shields.io/badge/Portafolio-andres--felipe--sanabria.uk-0e7490?style=for-the-badge&logo=astro&logoColor=white" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/andres-felipe-sanabria"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Sanabria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </div>
+
+---
+
+### 👋 Sobre mí
+
+Construyo **pipelines de datos que convierten información dispersa en decisiones confiables**. Trabajo como Analista BI en un operador logístico farmacéutico en Colombia, donde extraigo datos de bases y APIs, los transformo con Python y los cargo en SQL Server para logística, facturación, cartera y ventas.
+
+> 🇬🇧 *BI Analyst moving into Data Engineering — ETL pipelines with Python and SQL Server, REST/SOAP API integration and a strong focus on data quality.*
+
+```yaml
+andres:
+  rol: Analista BI → Data Engineer Jr
+  ubicacion: Bucaramanga, Colombia   # abierto a remoto / híbrido
+  enfoque: [ingesta de APIs, ETL/ELT, calidad del dato, modelado]
+  regla_de_oro: "Siempre validar el BI contra SQL"
+  aprendiendo: [AWS (S3, Glue, Athena), dbt, orquestación]
+```
+
+### 🔧 En qué trabajo
+
+- 🔌 **Ingesta de APIs**: integración de APIs REST y SOAP de transportadoras para la trazabilidad de envíos de punta a punta.
+- 🧪 **ETL y calidad del dato**: pandas y T-SQL (CTEs, window functions, procedimientos), con validación de indicadores contra la fuente.
+- ☁️ **Automatización en la nube**: jobs programados en Google Cloud Run y backends en Render.
+- 🧩 **Aplicaciones de datos**: FastAPI + Vue para capturar datos limpios desde el origen.
+- 📊 **BI**: modelado en Power BI, DAX y Power Query.
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,fastapi,vue,astro,gcp,githubactions,git,docker&theme=dark" alt="Stack" />
+</p>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### 🚀 Proyectos
+
+**Ingeniería de datos**
+
+| Proyecto | Qué demuestra |
+|---|---|
+| [**Portafolio**](https://github.com/andres-sanabria-10/Portafolio) | Astro + Vue + DuckDB-WASM (SQL en el navegador), datos sintéticos generados con Python y CI/CD con GitHub Actions |
+| *Pipeline con datos abiertos de Colombia* | 🔜 Ingesta programada, transformación con DuckDB/dbt y pruebas de calidad |
+
+**Desarrollo de software e IA** · *proyectos académicos*
+
+| Proyecto | Qué demuestra |
+|---|---|
+| [**Grafos sociales y emociones**](https://github.com/andres-sanabria-10/Taller2_GrafosSociales_ExtraccionDeDatosWhatsapp) | Microservicio en Python para análisis de redes (detección de comunidades) y de emociones, con backend Node.js y frontend React |
+| [**Generación de imágenes con IA**](https://github.com/andres-sanabria-10/ProyectoDeInteligencia) | Imágenes de especies en peligro a partir de texto con Gemini; backend en Python, frontend en React y orquestación con Docker Compose |
 
 <div align="center">
 
-<h3>👋 Hey, I'm Andrés Felipe Sanabria</h3>
+---
+
+📫 **Hablemos:** [LinkedIn](https://www.linkedin.com/in/andres-felipe-sanabria) · [Portafolio](https://andres-felipe-sanabria.uk/contacto/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0e7490,100:0b1117&section=footer" alt="" />
 
 </div>
-
-I'm a Systems and Computer Engineering student at **UPTC (Universidad Pedagógica y Tecnológica de Colombia)**.
-
-I’ve worked on different projects involving backend, frontend, AI, and automation. Here's what I focus on:
-
----
-
-### 🧠 AI / NLP
-
-* Implementation of **Hugging Face models** 
-* Used **Gemini API (Google AI)** to generate texts based on database context
-* Built text analysis APIs with `transformers` and Flask
-
----
-
-### 🖥️ Backend
-
-* Python APIs using **Flask** and **FastAPI**
-* JavaScript APIs using **Node.js + Express**
-* Connected webhooks to services like WhatsApp for real-time automation
-
----
-
-### 💬 Chatbots & Automation
-
-* Built a chatbot with **wa-automate-nodejs** using webhook events
-* Automated responses and bot logic integrated with backend services
-
----
-
-### 🌐 Frontend
-
-* UI development with **React** and **Vite**
-* Consuming APIs and handling state with React hooks
-
----
-
-### 📊 Data & Tools
-
-* SQL data handling with PostgreSQL and Oracle
-* Data pipelines using DBT
-* Worked with Power BI for reporting
-* Version control with Git, GitHub
-* Deployed with Render and Docker (basic)
-
----
-
-## 🧹 Actively deepening my knowledge in:
-
-* Microservice architecture and deployment
-* Frontend structural improvements
-* Creating robust API documentation and automated testing frameworks
-* Advanced data transformations using SQL and dbt
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-### 🧩 Frameworks & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-
-
-### 🗃️ Data & Backend
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-%23f06529.svg?style=for-the-badge&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 💻 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
----
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andres-sanabria-10&show_icons=true&theme=algolia&border_radius=15" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-sanabria-10&layout=compact&theme=algolia&border_radius=15" />
-</div>
----
-
-
-
-
-
-## 📢 Contact Me
-
----
-
-### 🚀 Featured Projects
-
-* 🔗 [Flask + DBT + PostgreSQL API](https://github.com/TU_USUARIO/tu-proyecto-dbt)
-* 🔗 [React + Node.js microservices demo](https://github.com/TU_USUARIO/microservices-demo)
-* 🔗 [Data visualization app](https://github.com/TU_USUARIO/visualization-app)
