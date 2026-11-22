@@ -61,6 +61,7 @@ andres:
 | Aplicación | Qué demuestra |
 |---|---|
 | 🔒 **Plataforma web para una parroquia** | Full stack: frontend en Next.js + TypeScript y API en Node.js con gestión de usuarios (registro con código de confirmación), misas, partidas con envío por correo y donaciones con pasarela de pagos (migración de ePayco a Mercado Pago). Pruebas con Jest, más de 230 commits |
+| 🔒 **NovaMind: gestión operativa para minería y canteras** · [ver producto](https://nova-mind-service.vercel.app/) | Producto propio de punta a punta (la aplicación requiere inicio de sesión; el enlace lleva a la presentación del producto). Módulos de extracción, producción en planta de trituración, equipos y mantenimiento, despachos, inventario, cartera y costo por m³, que alimentan un núcleo de eventos común y un tablero gerencial con roles, aprobaciones de supervisor y reportes casi en tiempo real. Backend en Python y sitio de presentación en Astro |
 | 🔒 **Evaluador de *speaking* en inglés con IA** | Aplicación web que evalúa la expresión oral en inglés (niveles A1–B1) con IA generativa, como parte de una investigación en la UPTC |
 
 **Desarrollo de software e IA** · *proyectos académicos*
