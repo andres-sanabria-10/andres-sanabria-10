@@ -15,7 +15,7 @@
 
 Construyo **pipelines de datos que convierten información dispersa en decisiones confiables**. Trabajo como Analista BI en un operador logístico farmacéutico en Colombia, donde extraigo datos de bases y APIs, los transformo con Python y los cargo en SQL Server para logística, facturación, cartera y ventas.
 
-> 🇬🇧 *BI Analyst moving into Data Engineering — ETL pipelines with Python and SQL Server, REST/SOAP API integration and a strong focus on data quality.*
+> **EN** · *BI Analyst moving into Data Engineering — ETL pipelines with Python and SQL Server, REST/SOAP API integration and a strong focus on data quality.*
 
 ```yaml
 andres:
